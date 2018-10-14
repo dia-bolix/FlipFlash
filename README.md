@@ -5,7 +5,7 @@ This flashcard app presents the user with a question, and when tapped, presents 
 
 ### App Walk-though
 
-<img src="http://recordit.co/y314W32pNs" width=200><br>
+<img src="https://s3.amazonaws.com/img0.recordit.co/y314W32pNs.mp4?AWSAccessKeyId=AKIAINSRFOQXTN4DT46A&Expires=1539496254&Signature=enALqszhxMH1kTCy6f%2B24hgYYgs%3D" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
