@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FlipFlash</string>
+    <string name="title_activity_add_card">AddCardActivity</string>
+    <string name="hint"
+        >type in your question here </string>
+    <string name="answer_hint"
+        >type in the answer here</string>
+    <string name="first_question"
+        >What is the city that never sleeps?</string>
 </resources>
