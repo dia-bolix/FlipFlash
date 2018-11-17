@@ -3,7 +3,7 @@
 ## Lab 2
 
 ### App Description
-`TODO://` Add app description
+This flashcard app is able to recieve a question and answer from the user. Once saved, this will be displayed on the main screen. Clicking on the question and on the answer switches between the two.
 
 ### App Walk-though
 
