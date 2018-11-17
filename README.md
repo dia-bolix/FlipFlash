@@ -6,11 +6,7 @@
 This flashcard app is able to recieve a question and answer from the user. Once saved, this will be displayed on the main screen. Clicking on the question and on the answer switches between the two.
 
 ### App Walk-though
-
-
 <img src="https://media.giphy.com/media/3GlcPBqKcYFVV5F4KW/giphy.gif" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
@@ -25,6 +21,8 @@ This flashcard app is able to recieve a question and answer from the user. Once 
 - [ ] A notification is shown if the card was created successfully
 - [ ] User can also enter multiple choice answers when creating a card
 - [ ] App is further styled and customized!
+
+## Lab 1
 ### App Description
 This flashcard app presents the user with a question, and when tapped, presents the answer. Can hide or show responses. Correct response is highlighted in green.
 
