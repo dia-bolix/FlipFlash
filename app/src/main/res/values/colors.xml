@@ -10,4 +10,9 @@
     <color name="gray"> #808080 </color>
     <color name="navy_blue"> #000080 </color>
     <color name="medium_blue"> #0066cd </color>
+    <color name="mustard"> #ddb464 </color>
+    <color name="wine"> #83192d </color>
+    <color name="dark_wine"> #451930 </color>
+    <color name="near_black"> #211b29 </color>
+    <color name="teal"> #6d8a90 </color>
 </resources>

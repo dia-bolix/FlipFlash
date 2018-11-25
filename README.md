@@ -1,5 +1,25 @@
 ## FlipFlash
 
+## Lab 4
+
+### App Description
+In this flashcard app the user is able to create custom flashcards. To switch between the question and answer, the user taps on the question or answer. When tapping on the add button, the user can create a flashcard by typing in a question and its answer. These flashcards can be navigated by tapping on the next and before arrows. When the app is closed, created flashcards are saved. These are all animated.
+
+### App Walk-though
+
+<img src="http://g.recordit.co/llds1r47rm.gif" width=200><br>
+
+## Required
+- [x] User sees a transition animation when going from the main screen to the add card screen.
+- [x] User sees a reveal animation when the flashcard is tapped and the answer is shown
+- [x] User sees flashcards animating in / out when the 'next' button is tapped
+
+## Optional
+- [ ] Extra styling is added!
+- [ ] User sees a countdown timer for each question
+- [ ] User sees a 'card flip' animation when the card is tapped
+- [ ] User sees a celebration animation with confetti when they answer a question correctly
+
 ## Lab 3
 
 ### App Description

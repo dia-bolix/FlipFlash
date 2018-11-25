@@ -20,6 +20,8 @@ public class AddCardActivity extends Activity {
                 Intent intent = new Intent(AddCardActivity.this, Question.class);
                 AddCardActivity.this.startActivity(intent);
                 finish();
+                overridePendingTransition(R.anim.left_in, R.anim.right_out);
+
             }
         });
 
@@ -32,6 +34,8 @@ public class AddCardActivity extends Activity {
                 data.putExtra("user_ans", ((EditText) findViewById(R.id.cust_answer)).getText().toString());
                 setResult(RESULT_OK, data);
                 finish();
+                overridePendingTransition(R.anim.left_in, R.anim.right_out);
+
             }
         });
     }
