@@ -1,5 +1,25 @@
 ## FlipFlash
 
+## Lab 3
+
+### App Description
+In this flashcard app the user is able to create custom flashcards. To switch between the question and answer, the user taps on the question or answer. When tapping on the add button, the user can create a flashcard by typing in a question and its answer. These flashcards can be navigated by tapping on the next and before arrows. When the app is closed, created flashcards are saved.
+
+### App Walk-though
+
+<img src="g.recordit.co/zlDRQppMdD.gif" width=200><br>
+
+
+## Required
+- [x] User can create a card and still see their created card when the app is relaunched.
+- [x] User can create muliple cards and browse through all created cards
+
+## Optional
+- [ ] User can delete a card and no longer see it in their deck anymore
+- [ ] Flashcards are shown in random order instead of the order they were created in
+- [ ] User can edit a card and see the edit saved when they browse through their deck of cards
+- [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
+
 ## Lab 2
 
 ### App Description
