@@ -7,7 +7,7 @@ In this flashcard app the user is able to create custom flashcards. To switch be
 
 ### App Walk-though
 
-<img src="g.recordit.co/zlDRQppMdD.gif" width=200><br>
+<img src="http://g.recordit.co/zlDRQppMdD.gif" width=200><br>
 
 
 ## Required
